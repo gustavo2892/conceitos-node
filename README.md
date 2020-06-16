@@ -8,13 +8,13 @@
 
 Nesse nível foi criada uma demonstração de uma aplicação. Os principais conceitos vistos nesse nível foram:
 
-- **`Métodos HTTP (GET, POST, PUT e DELETE).
-- **`Tipos de parâmetros das rotas (Query Params, Route Params e Request Body).
-- **`HTTP Codes (variam de 1xx até 5xx).
-- **`Middlewares
+- Métodos HTTP (GET, POST, PUT e DELETE).
+- Tipos de parâmetros das rotas (Query Params, Route Params e Request Body).
+- HTTP Codes (variam de 1xx até 5xx).
+- Middlewares
 
 ### Tech Stack
 
-- **`NodeJS
-- **`ExpressJS
-- **`Nodemon
+- NodeJS
+- ExpressJS
+- Nodemon
